@@ -1,0 +1,7 @@
+[core]
+    autostage = true
+    remote = temps
+['remote "temp"']
+    url = ..
+['remote "temps"']
+    url = D:\FSDS\dvc-demo\temps
